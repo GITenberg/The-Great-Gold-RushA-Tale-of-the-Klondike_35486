@@ -1,0 +1,29 @@
+_repo: The-Great-Gold-RushA-Tale-of-the-Klondike_35486
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35486-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jarvis, W. H. P. (William Henry Pope)
+    alias: Jarvis, William Henry Pope
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '37707'
+    url: http://www.gutenberg.org/2009/agents/37707
+description: ''
+gutenberg_issued: '2011-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcsh 'Canadian fiction'
+- !lcc 'PS'
+title: 'The Great Gold Rush: A Tale of the Klondike'
+url: http://www.gutenberg.org/ebooks/35486
